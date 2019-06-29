@@ -11,15 +11,3 @@ Custom Authentication in Django.
 
 # Signup
 <img width="1552" alt="Screenshot 2019-06-29 at 7 25 14 PM" src="https://user-images.githubusercontent.com/20112458/60385287-3ae6db00-9aa5-11e9-81f2-97073fa8c8d6.png">
-
-
-# How to Run
-
-1. Go to the repoitory
-2. Create superuser
-       
-       $ python manage.py createsuperuser
-3. Run
-          
-       $ python manage.py runserver
-       
